@@ -1,2 +1,5 @@
+User-agent: Googlebot
+Disallow: /dummy.html
+
 User-agent: *
 Disallow: /dummy.html
